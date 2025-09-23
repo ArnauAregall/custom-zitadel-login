@@ -1,0 +1,15 @@
+custom-config.js
+standalone
+tsconfig.tsbuildinfo
+cypress
+
+.DS_Store
+.idea
+node_modules
+*.log
+.next
+dist
+dist-ssr
+*.local
+.vscode
+/blob-report/

@@ -1,0 +1,8 @@
+packages:
+  - packages/*
+
+exclude:
+  - benchmark # because of the node 18 or 20 dependency
+
+overrides:
+  '@typescript-eslint/parser': '^8.35.1'
