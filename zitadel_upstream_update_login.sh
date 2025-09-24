@@ -6,7 +6,7 @@ UPSTREAM_BRANCH="remove-turbo-2"
 UPSTREAM_DIR="apps/login"
 TMP_DIR="tmp_upstream_zitadel"
 
-echo "⚙️ Updating repository root from '$UPSTREAM_REPO', branch '$UPSTREAM_BRANCH', directory '$UPSTREAM_DIR'..."
+echo "Updating repository root from '$UPSTREAM_REPO', branch '$UPSTREAM_BRANCH', directory '$UPSTREAM_DIR'..."
 
 # Remove temp dir if exists
 rm -rf "$TMP_DIR"
