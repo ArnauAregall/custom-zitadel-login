@@ -13,5 +13,10 @@ dist-ssr
 *.local
 .vscode
 /blob-report/
-tmp_*
+
+# Zitadel upstream repo directories
 proto/
+packages/
+
+# Temporal cloned repos
+tmp_*
